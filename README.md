@@ -1,6 +1,6 @@
 # jokesapp
 
-A app for jokes.
+A app for jokes (from https://sv443.net/jokeapi/v2/).
 
 ## Getting Started
 
